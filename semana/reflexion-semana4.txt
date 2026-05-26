@@ -1,0 +1,10 @@
+Las comunidades e iniciativas ciudadanas necesitan herramientas tecnológicas propias para tener mayor autonomía y control sobre sus procesos digitales.
+Tecnologías abiertas como Node.js permiten crear soluciones adaptadas a las necesidades locales.
+Además, el software abierto reduce costos porque muchas herramientas son gratuitas y accesibles.
+También fomenta la transparencia, ya que cualquier persona puede revisar y mejorar el código.
+Esto fortalece la confianza entre quienes usan la plataforma o aplicación.
+Las comunidades pueden colaborar entre sí y compartir conocimientos tecnológicos.
+Node.js facilita el desarrollo de aplicaciones rápidas y en tiempo real.
+El aprendizaje de estas tecnologías impulsa la formación y el empleo local.
+Asimismo, evita depender completamente de grandes empresas tecnológicas privadas.
+En conjunto, las tecnologías abiertas ayudan a construir una participación ciudadana más libre, inclusiva y sostenible.
